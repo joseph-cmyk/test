@@ -1,0 +1,15 @@
+{
+	"id": "joseph.navy-gold",
+	"type": "theme",
+	"name": "Navy Gold",
+	"description": "Deep midnight navy surfaces with warm golden-yellow accents.",
+	"authors": [
+		{
+			"name": "Joseph",
+			"id": "466968658997149706"
+		}
+	],
+	"version": "1.0.0",
+	"icon": "PaintPaletteIcon",
+	"main": "bundle.json"
+}
