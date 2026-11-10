@@ -1,0 +1,14 @@
+{
+	"id": "taki-shiwa.gruv-yellow",
+	"name": "Gruv Yellow",
+	"description": "A gruvy yellow theme, ported to Unbound.",
+	"authors": [
+		{
+			"name": "Taki_Shiwa",
+			"id": "466968658997149706"
+		}
+	],
+	"version": "3.3.4",
+	"icon": "PaintPaletteIcon",
+	"main": "bundle.json"
+}
